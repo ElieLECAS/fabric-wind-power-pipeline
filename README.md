@@ -12,3 +12,23 @@ Ce projet implémente une architecture Medallion (Bronze/Silver/Gold) complète 
 - Visualisation dans Power BI
 
 ## 🏗️ Architecture
+
+GitHub (CSV) → Bronze → Silver → Gold → Semantic Model → Power BI
+
+## 📊 Technologies utilisées
+
+- Microsoft Fabric
+- Delta Lake
+- PySpark
+- SQL
+- Power BI
+- DAX
+
+## 🚀 Statut
+
+🔨 **En cours de développement**
+
+---
+
+*Projet réalisé dans le cadre d'une formation sur Microsoft Fabric*
+*Date de début : 16 novembre 2025*
